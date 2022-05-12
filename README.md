@@ -1,6 +1,7 @@
 # XAI-explanations-with-different-levels-of-interactivity
 
-The prototypes with five levels of interactivity based on the narrative visualization framework for this experiment are shown as follows: 
+The prototypes with five levels of interactivity based on the narrative visualization framework [Segel and Heer, 2010]
+  (http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf) for this experiment are shown as follows: 
 
 Presenting explanatory information by purely author-driven approach:
 1) A_P prototype is available at: https://prezi.com/i/eijnaberasxe/.
