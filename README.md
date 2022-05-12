@@ -1,5 +1,7 @@
 # XAI-explanations-with-different-levels-of-interactivity
 The simulation learning exercise:
+![image](https://user-images.githubusercontent.com/48482836/168102494-635bc235-9622-400d-833e-58f00e424bc2.png)
+
 The prototypes with five levels of interactivity based on the narrative visualization framework for this experiment are shown as follows: 
 Presenting explanatory information by purely au-thor-driven approach: ![image](https://user-images.githubusercontent.com/48482836/168102149-21d70373-88c6-460c-9357-12e635c6d1b5.png) 
 1) A_P prototype is available at: https://prezi.com/i/eijnaberasxe/.![image](https://user-images.githubusercontent.com/48482836/168101751-3e26ea20-ee27-425c-b6d5-e40e203e5900.png)
